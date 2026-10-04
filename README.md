@@ -6,8 +6,12 @@
 
 ## 🌟 `Bot Intro and Features`
 ![WABOT](https://i.ibb.co/YBgkwj6X/wabot-menu.png)
+![WABOT](pics/wabot1.PNG)
+![WABOT](pics/wabot2.PNG)
+![WABOT](pics/wabot3.PNG)
+![WABOT](pics/wabot4.PNG)
 
-### ℹ️ **About WABOT**
+## ℹ️ **About WABOT**
 WABOT is a versatile Multi-Device WhatsApp bot built by [Zaid Hussain](https://github.com/zaidbscs). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
 
