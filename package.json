@@ -1,16 +1,16 @@
 {
-  "name": "Xlicon",
+  "name": "Wabot",
   "version": "1.0.0",
-  "description": "Xlicon WhatsApp Bot",
+  "description": "Wabot WhatsApp Bot",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js",
-    "stop": "pm2 stop Xlicon",
-    "restart": "pm2 restart Xlicon",
+    "stop": "pm2 stop Wabot",
+    "restart": "pm2 restart Wabot",
     "bot": "node index.js"
   },
-  "author": "Xlicon",
+  "author": "Wabot",
   "license": "MIT",
   "private": true,
   "keywords": [
